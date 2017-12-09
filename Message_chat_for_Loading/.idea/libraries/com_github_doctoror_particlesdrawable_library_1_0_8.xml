@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.doctoror.particlesdrawable:library-1.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.8.aar/052696e6d6c08a18ea1ac91726f5c738/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.8.aar/052696e6d6c08a18ea1ac91726f5c738/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.doctoror.particlesdrawable/library/1.0.8/60bd904bc61b948ab84c3d0087e7e52c62a1b230/library-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

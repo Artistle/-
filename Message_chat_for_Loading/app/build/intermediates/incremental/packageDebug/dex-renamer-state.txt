@@ -1,0 +1,4 @@
+#Mon Oct 09 19:50:08 MSK 2017
+base.0=/home/artistle/AndroidStudioProjects/Message_chat_for_Loading/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/artistle/AndroidStudioProjects/Message_chat_for_Loading/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

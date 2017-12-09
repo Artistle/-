@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/artistle/AndroidStudioProjects/Message_chat_for_Loading/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/artistle/AndroidStudioProjects/Message_chat_for_Loading/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/artistle/AndroidStudioProjects/Message_chat_for_Loading/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/artistle/AndroidStudioProjects/Message_chat_for_Loading/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed Nov 08 00:22:46 YEKT 2017
+base.0=/home/artistle/Documents/projects/Message_chat_for_Loading/app/build/intermediates/transforms/dexMerger/debug/1
+renamed.0=classes.dex
+file.0=/home/artistle/Documents/projects/Message_chat_for_Loading/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex

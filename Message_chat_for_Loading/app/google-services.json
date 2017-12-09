@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "231688892726",
+    "firebase_url": "https://messagechatforloading.firebaseio.com",
+    "project_id": "messagechatforloading",
+    "storage_bucket": "messagechatforloading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231688892726:android:e045b17afd8dca7d",
+        "android_client_info": {
+          "package_name": "com.example.artistle.message_chat_for_loading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231688892726-1d6kv1m8n93oec3urohrvfaqkbfl0e47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artistle.message_chat_for_loading",
+            "certificate_hash": "8a5012ed52561e79aece5fb5e5aa5c1ffe4fc451"
+          }
+        },
+        {
+          "client_id": "231688892726-2mm4tu9usnv80tpbopkj8n6ond72aj29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artistle.message_chat_for_loading",
+            "certificate_hash": "a9e90c3ce5fa799549a242e5b227d3ebb2c8d2f4"
+          }
+        },
+        {
+          "client_id": "231688892726-h00sfitms5h0jsmmefkto1kuqu4j8299.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1adhAOhwYWnOnwkEIZ1g1HZ0Nl2SlOkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231688892726-h00sfitms5h0jsmmefkto1kuqu4j8299.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
